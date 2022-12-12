@@ -1,4 +1,4 @@
-package _6_estruturas_repetitivas;
+package _06_estruturas_repetitivas;
 
 import java.util.Locale;
 import java.util.Scanner;
